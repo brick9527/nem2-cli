@@ -136,4 +136,10 @@ export class ReceiptService {
         })
         return txt
     }
+
+
+    public tabulateTransactionStatements(statement: Statement): string {
+      
+      return ''
+    }
 }
